@@ -1,5 +1,5 @@
 Technologies Used:
-,Python
+Python
 ,File Handling
 ,Functions
 ,Conditional Statements
